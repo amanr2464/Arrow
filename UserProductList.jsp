@@ -1,7 +1,7 @@
 <%--
     Document   : ProductList
-    Created on : JAN 12, 2017, 4:57:54 PM
-    
+    Created on : Feb 22, 2011, 4:57:54 AM
+    Author     : softavate
 --%>
 <%@page import="java.sql.PreparedStatement"%>
 <%@page import="java.sql.Connection"%>

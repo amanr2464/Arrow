@@ -1,7 +1,7 @@
 <%--
     Document   : Purchase
-    Created on : JAN 16, 2017, 2:59:16 PM
-    
+    Created on : Feb 1, 2011, 2:59:16 PM
+    Author     : Administrator
 --%>
 <%@page import="java.sql.PreparedStatement"%>
 <%@page import="java.sql.Connection"%>
